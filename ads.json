@@ -7,7 +7,7 @@
 
   "countdown": {
     "enabled": true,
-    "seconds": 10,
+    "seconds": 20,
     "style": "circle",
     "position": "topRight",
     "autoCloseAtZero": true
